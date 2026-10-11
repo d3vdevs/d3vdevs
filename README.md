@@ -31,7 +31,8 @@
 ```ts
 const d3v = {
   name:      "D3V Development",
-  founders:  ["Mohit Kamboj", "Reyan Khan"],
+  founder:   "Mohit Kamboj",   // owner · founder · creator
+  ceo:       "Reyan Khan",
   basedIn:   "Chandigarh, India 🇮🇳 — shipping worldwide 🌍",
   builds:    ["SaaS platforms", "real-time web apps", "license systems",
               "Discord bots", "blazing-fast Next.js / Astro sites", "APIs"],
@@ -43,14 +44,14 @@ const d3v = {
 };
 ```
 
-## 👥 The Founders
+## 👥 Leadership
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
       <h3>Mohit Kamboj</h3>
-      <sub><b>Co-Founder · Full-Stack Developer</b></sub><br/><br/>
-      Real-time systems, license infrastructure, SaaS and the occasional
+      <sub><b>👑 Founder · Owner · Creator of D3V</b></sub><br/><br/>
+      Started D3V and still writes the code. Real-time systems, license infrastructure, SaaS and the occasional
       Discord bot that gets out of hand.<br/><br/>
       <a href="https://mohitdev.tech"><img src="https://img.shields.io/badge/-Portfolio-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white"/></a>
       <a href="https://x.com/mohitkamb0z"><img src="https://img.shields.io/badge/-X-0A0014?style=flat-square&logo=x&logoColor=white"/></a>
@@ -59,10 +60,10 @@ const d3v = {
     </td>
     <td align="center" width="50%">
       <h3>Reyan Khan</h3>
-      <sub><b>Co-Founder</b></sub><br/><br/>
-      Co-runs D3V. Product, partnerships and keeping
-      the build queue moving.<br/><br/>
-      <a href="https://discord.gg/d3v"><img src="https://img.shields.io/badge/-Find%20him%20on%20Discord-6D28D9?style=flat-square&logo=discord&logoColor=white"/></a>
+      <sub><b>💼 Chief Executive Officer</b></sub><br/><br/>
+      Runs D3V's day-to-day: clients, operations
+      and where the company goes next.<br/><br/>
+      <a href="https://discord.gg/d3v"><img src="https://img.shields.io/badge/-Reach%20Reyan%20on%20Discord-6D28D9?style=flat-square&logo=discord&logoColor=white"/></a>
     </td>
   </tr>
 </table>
