@@ -32,7 +32,7 @@
 const d3v = {
   name:      "D3V Development",
   founder:   "Mohit Kamboj",   // owner · founder · creator
-  ceo:       "Reyan Khan",
+  ceo:       "Reyan Khan",     // CEO · runs all social media
   basedIn:   "Chandigarh, India 🇮🇳 — shipping worldwide 🌍",
   builds:    ["SaaS platforms", "real-time web apps", "license systems",
               "Discord bots", "blazing-fast Next.js / Astro sites", "APIs"],
@@ -60,9 +60,10 @@ const d3v = {
     </td>
     <td align="center" width="50%">
       <h3>Reyan Khan</h3>
-      <sub><b>💼 Chief Executive Officer</b></sub><br/><br/>
+      <sub><b>💼 Chief Executive Officer · Head of Social Media</b></sub><br/><br/>
       Runs D3V's day-to-day: clients, operations
-      and where the company goes next.<br/><br/>
+      and where the company goes next. Also behind every
+      D3V social channel, from YouTube to Discord.<br/><br/>
       <a href="https://discord.gg/d3v"><img src="https://img.shields.io/badge/-Reach%20Reyan%20on%20Discord-6D28D9?style=flat-square&logo=discord&logoColor=white"/></a>
     </td>
   </tr>
